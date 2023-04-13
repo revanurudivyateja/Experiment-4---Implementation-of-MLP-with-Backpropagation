@@ -119,8 +119,7 @@ Normalize our dataset.
 
 ## PROGRAM:
 ```
-Name:sk.sadulla.
-Reg.No:212220040151.
+
 
 ```
 ```
